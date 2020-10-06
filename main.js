@@ -1,2 +1,2 @@
-var message = "ssssssssssssss"
-console.log.(message)
+var message = 1 + 2 + 3 + 4 + 5
+console.log.("concatenate: " + message)
