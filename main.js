@@ -1,7 +1,2 @@
-var product
-
-let num1 = 99, num2 = 11
-product = num1 * num2
-console.log(product)
-
-console.log("the product is " + product)
+var message = 1 + 2 + 3 + 4 + 5
+console.log.("concatenate: " + message)
