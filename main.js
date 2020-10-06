@@ -1,2 +1,2 @@
 console.log("rrrrrrrrrrrrrr")
-num = 200
+var num = 200
